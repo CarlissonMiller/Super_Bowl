@@ -1,4 +1,4 @@
-# **Python Case - Super Bowl**
+# **Super Bowl Case**
 
 ## **Descrição**
 
